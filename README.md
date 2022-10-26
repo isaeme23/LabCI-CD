@@ -72,3 +72,16 @@ Buscaremos la opcion de 'MyShuttleBuild' y la editaremos con las siguientes conf
 Despues de que se haya ejecutado de forma correcta, iremos a la parte de 'Releases':
 
 ![](Resources/14.png)
+
+Ahora editaremos la parte de MyShuttleRelease y agregaremos el artefacto de MyShuttleBuild:
+![](Resources/15.png)
+
+Editaremos la primera etapa con ambas tareas y llenaremos los campos requeridos para poder continuar:
+![](Resources/16.png)
+![](Resources/17.png)
+
+Ejecutamos el Pipeline que acabamos de editar con la opcion de create release:
+![](Resources/18.png)
+
+Si todo esta configurado de forma correcta, se ejecutara con exito:
+![](Resources/19.png)
