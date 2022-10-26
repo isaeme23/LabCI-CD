@@ -1,6 +1,8 @@
 
 # Laboratorio CI/CD
 
+## Integrantes: Santiago Ospina, Isabella Manrique
+
 ## Ejercicio 1
 Primero, en [Azure portal](https://portal.azure.com/#home), abriremos
 el Azure Cloud Shell que nos servira como terminal.
@@ -85,3 +87,5 @@ Ejecutamos el Pipeline que acabamos de editar con la opcion de create release:
 
 Si todo esta configurado de forma correcta, se ejecutara con exito:
 ![](Resources/19.png)
+
+https://webappcvds.azurewebsites.net/CVDS
